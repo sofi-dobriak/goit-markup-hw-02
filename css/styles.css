@@ -41,6 +41,10 @@ address {
     letter-spacing: 0.02em
 }
 
+.text {
+    font-size: 16px;
+}
+
 /* Navigation */
 
 .logo {
@@ -110,7 +114,11 @@ address {
 /* Team */
 
 .team-section {
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
+}
+
+.team-item {
+    background-color: #FFFFFF
 }
 
 .team-sub-title {
